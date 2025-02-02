@@ -83,6 +83,8 @@ python 3 eval.py
 ![Demo](https://raw.githubusercontent.com/2vhoc/football-player-tracking/main/demo/images/Screenshot%20from%202025-02-02%2012-20-43.png)
 *Hình ảnh: Đánh giá qua bộ test mà mô hình chưa gặp bao giờ*
 
+![Demo](https://raw.githubusercontent.com/2vhoc/football-player-tracking/main/demo/videos/2025-02-02%2018-20-18.mp4)
+*Hình ảnh: Đánh giá qua bộ test mà mô hình chưa gặp bao giờ*
 
 ## Đóng góp
 Mọi đóng góp đều được chào đón. Vui lòng:
