@@ -103,7 +103,7 @@ Mọi đóng góp đều được chào đón. Vui lòng:
 ## Citation
 Nếu bạn sử dụng project này trong nghiên cứu của mình, vui lòng trích dẫn:
 ```
-@article{smoke-detection2024,
+@article{football-player-tracking2025,
   title={Real-time football-player-tracking Using Deep Learning},
   author={Vũ Văn Học},
   year={2025}
